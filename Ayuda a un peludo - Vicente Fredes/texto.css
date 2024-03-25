@@ -1,0 +1,19 @@
+<style>
+    .carousel-caption {
+        position: absolute;
+        top: 10px; /* Ajusta la posición vertical del contenedor de la descripción */
+        left: 10px; /* Ajusta la posición horizontal del contenedor de la descripción */
+        color: orange; /* Color del texto */
+    }
+    
+    .carousel-caption h2 {
+        margin-bottom: 0; /* Elimina el margen inferior del título */
+    }
+
+    .carousel-title {
+        position: absolute;
+        top: 10px; /* Ajusta la posición vertical del contenedor del título */
+        left: 10px; /* Ajusta la posición horizontal del contenedor del título */
+        color: orange; /* Color del texto */
+    }
+</style>
